@@ -4,4 +4,4 @@
 Semester 1 task: Build logical circuits
 Semester 2 task: Explore memory hierarchy in i7 processors
 
-Tools used: logisim, Marie simulator, CPU-Z. msword 
+Tools used: logisim, Marie simulator, CPU-Z, msword 
